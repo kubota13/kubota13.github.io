@@ -1,0 +1,11 @@
+@media (max-width: 1000px) {
+    .message2 {
+        width: 100%;
+    }
+}
+
+@media (max-width: 670px) {
+    .message2 {
+        width: 100%;
+    }
+}
