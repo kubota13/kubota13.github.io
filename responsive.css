@@ -5,6 +5,10 @@
 }
 
 @media (max-width: 670px) {
+    .title {
+        width: 100%;
+    }    
+    
     .message2 {
         width: 100%;
     }
