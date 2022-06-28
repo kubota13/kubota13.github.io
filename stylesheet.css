@@ -18,7 +18,7 @@ main {
 }
 
 .title {
-    height: 1450px;
+    height: 1500px;
 }
 .title img {
     height: 1500px;
@@ -300,7 +300,7 @@ main {
 }
 
 .message12 {
-    background-image: url(img20.jpeg);
+    background-image: url(img/img20.jpeg);
     background-size: 100% 100%;
     height: 1500px;
 }
@@ -352,14 +352,14 @@ main {
 .profile2img {
     padding: 200px 0;
     margin-top: 100px;
-    background-image: url(img10.jpg);
+    background-image: url(img/img10.jpg);
     background-size: cover;
     border-radius: 15px;
 }
 .profile2img2 {
     padding: 200px 0 100px 0;
     margin-top: 50px;
-    background-image: url(img11.jpg);
+    background-image: url(img/img11.jpg);
     background-size: cover;
     border-radius: 15px;
 }
@@ -590,18 +590,18 @@ ul p {
     position: relative;
 }
 .message18-1 {
-    margin-left: 30px;
     font-size: 30px;
     text-align: center;
+    margin: auto;
 }
 .message18-1 img {
-    border-radius: 200px;
+    border-radius: 50%;
     width: 385px;
     height: 360px;
 }
 .message18-2 {
     font-size: 34px;
-    margin-left: 45px;
+    margin: 0 auto;
     text-align: left;
 }
 .border-1 {
@@ -610,7 +610,7 @@ ul p {
     background-color: sienna;
     border-radius: 5px;
     position: absolute;
-    top: 450px;
+    top: 500px;
     left: 20px;
     opacity: 0.7;
 }
@@ -621,22 +621,23 @@ ul p {
     display: flex;
     flex-direction: row-reverse;
     position: relative;
+    margin-top: 50px;
 }
 .message19-1 {
-    margin-left: 30px;
+    margin: auto;
     font-size: 35px;
     text-align: center;
 }
 .message19-1 img {
-    border-radius: 200px;
+    border-radius: 50%;
     width: 385px;
     height: 360px;
-    margin-top: 150px;
     
 }
 .message19-2 {
     font-size: 30px;
     text-align: left;
+    margin: 0 auto;
 }
 .border-2 {
     width: 1400px;
@@ -656,19 +657,19 @@ ul p {
     position: relative;
 }
 .message20-1 {
-    margin-left: 30px;
+    margin: auto;
     font-size: 35px;
     text-align: center;
 }
 .message20-1 img {
-    border-radius: 200px;
+    border-radius: 50%;
     width: 385px;
     height: 360px;
-    margin-top: 30%;
+    margin: auto;
 }
 .message20-2 {
     font-size: 31px;
-    margin-left: 45px;
+    margin: 0 auto;
     text-align: left;
 }
 .border-3 {
@@ -690,20 +691,20 @@ ul p {
     position: relative;
 }
 .message21-1 {
-    margin-left: 30px;
+    margin: auto;
     font-size: 35px;
     text-align: center;
 }
 .message21-1 img {
-    border-radius: 200px;
+    border-radius: 50%;
     width: 385px;
     height: 360px;
-    margin-top: 60px;
-
+    margin: auto;
 }
 .message21-2 {
     font-size: 33px;
     text-align: left;
+    margin: 0 auto;
 }
 .border-4 {
     width: 1400px;
@@ -771,7 +772,7 @@ ul p {
 }
 
 footer {
-    background-image: url(img15.jpg);
+    background-image: url(img/img15.jpg);
     background-size: cover;
     background-color: rgba(255,255,255, 0.6);
     background-blend-mode: lighten;
