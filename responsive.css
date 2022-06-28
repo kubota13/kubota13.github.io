@@ -4,13 +4,13 @@
     }
 }
 
-@media (max-width: 900px) {
+@media (max-width: 600px) {
     main {
         height: 26100px;
     }
     
     .title {
-        width: 390px;
+        width: 400px;
         height: 1500px;
     }
    .h1-1 {
@@ -40,7 +40,7 @@
     }
 
     .message {
-        width: 390px;
+        width: 400px;
     }
     .message p {
         font-size: 40px;
