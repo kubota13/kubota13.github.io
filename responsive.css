@@ -46,24 +46,24 @@
         width: 390px;
     }
     .message p {
-        font-size: 27px;
+        font-size: 20px;
     }
     .message h2 {
-        font-size: 31px;
+        font-size: 25px;
     }
 
     .message2 {
         width: 390px;
     }
     .message2 p {
-        font-size: 30px;
+        font-size: 20px;
         text-align: left;
     }
 
     .message3 {
         width: 390px;
         height: 650px;
-        font-size: 35px;
+        font-size: 30px;
     }
 
     .message4 {
