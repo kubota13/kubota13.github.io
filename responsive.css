@@ -43,13 +43,13 @@
     }
 
     .message {
-        width: 400px;
+        width: 390px;
     }
     .message p {
-        font-size: 40px;
+        font-size: 30px;
     }
     .message h2 {
-        font-size: 45px;
+        font-size: 35px;
     }
 
     .message2 {
