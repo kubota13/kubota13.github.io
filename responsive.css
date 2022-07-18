@@ -1,11 +1,11 @@
 @media (min-width: 641px) {
     html {
-        min-width: 1435px;
+        min-width: 1200px;
     }
 }
 
 @media (max-width: 640px) {
     html {
-        min-width: 1435px;
+        min-width: 1445px;
     }
 }
