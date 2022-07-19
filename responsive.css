@@ -1,16 +1,17 @@
 @media (min-width: 641px) {
     html {
-        width: 1100px;
+        min-width: 1435px;
     }
 }
 
 @media (max-width: 640px) {
     html {
-        width: 1435px;
-    }
-
-    .title {
-        font-size: 40px;
+        min-width: 1435px;
     }    
 }
 
+@media (min-width: 1435px) {
+    html {
+        max-width: 1435px;
+    }
+}
