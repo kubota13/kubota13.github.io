@@ -1,4 +1,4 @@
-@media (min-width: 641px) {
+@media (max-width: 1000px) {
     html {
         min-width: 1435px;
     }
