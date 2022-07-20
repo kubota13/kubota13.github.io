@@ -30,7 +30,7 @@ main {
     position: absolute;
     top: 860px;
     left: 50px;
-    width: 50%;
+    width: 850px;
 }
 .h1-2 {
     font-size: 50px;
@@ -38,7 +38,7 @@ main {
     position: absolute;
     top: 960px;
     left: 250px;
-    width: 50%;
+    width: 500px;
 }
 .h2-1 {
     font-size: 100px;
@@ -47,7 +47,7 @@ main {
     position: absolute;
     top: 1050px;
     left: 50px;
-    width: 50%;
+    width: 400px;
 }
 .h2-2 {
     font-size: 100px;
@@ -56,7 +56,7 @@ main {
     position: absolute;
     top: 1200px;
     left: 50px;
-    width: 50%;
+    width: 400px;
 }
 
 .message {
