@@ -1,9 +1,3 @@
-@media (max-width: 1000px) {
-    html {
-        min-width: 1435px;
-    }
-}
-
 @media (max-width: 640px) {
     html {
         min-width: 1435px;
